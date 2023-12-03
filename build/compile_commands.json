@@ -1,0 +1,57 @@
+[
+{
+  "directory": "/home/hittero/ssd-secundario/ComputacaoGrafica/mundoVirtual/build",
+  "command": "/usr/bin/c++   -g -o CMakeFiles/mundoVirtual.dir/main.cpp.o -c /home/hittero/ssd-secundario/ComputacaoGrafica/mundoVirtual/main.cpp",
+  "file": "/home/hittero/ssd-secundario/ComputacaoGrafica/mundoVirtual/main.cpp"
+},
+{
+  "directory": "/home/hittero/ssd-secundario/ComputacaoGrafica/mundoVirtual/build",
+  "command": "/usr/bin/c++   -g -o CMakeFiles/mundoVirtual.dir/Error.cpp.o -c /home/hittero/ssd-secundario/ComputacaoGrafica/mundoVirtual/Error.cpp",
+  "file": "/home/hittero/ssd-secundario/ComputacaoGrafica/mundoVirtual/Error.cpp"
+},
+{
+  "directory": "/home/hittero/ssd-secundario/ComputacaoGrafica/mundoVirtual/build",
+  "command": "/usr/bin/c++   -g -o CMakeFiles/mundoVirtual.dir/Camera.cpp.o -c /home/hittero/ssd-secundario/ComputacaoGrafica/mundoVirtual/Camera.cpp",
+  "file": "/home/hittero/ssd-secundario/ComputacaoGrafica/mundoVirtual/Camera.cpp"
+},
+{
+  "directory": "/home/hittero/ssd-secundario/ComputacaoGrafica/mundoVirtual/build",
+  "command": "/usr/bin/c++   -g -o CMakeFiles/mundoVirtual.dir/Cube.cpp.o -c /home/hittero/ssd-secundario/ComputacaoGrafica/mundoVirtual/Cube.cpp",
+  "file": "/home/hittero/ssd-secundario/ComputacaoGrafica/mundoVirtual/Cube.cpp"
+},
+{
+  "directory": "/home/hittero/ssd-secundario/ComputacaoGrafica/mundoVirtual/build",
+  "command": "/usr/bin/c++   -g -o CMakeFiles/mundoVirtual.dir/Shader.cpp.o -c /home/hittero/ssd-secundario/ComputacaoGrafica/mundoVirtual/Shader.cpp",
+  "file": "/home/hittero/ssd-secundario/ComputacaoGrafica/mundoVirtual/Shader.cpp"
+},
+{
+  "directory": "/home/hittero/ssd-secundario/ComputacaoGrafica/mundoVirtual/build",
+  "command": "/usr/bin/c++   -g -o CMakeFiles/mundoVirtual.dir/Primitives.cpp.o -c /home/hittero/ssd-secundario/ComputacaoGrafica/mundoVirtual/Primitives.cpp",
+  "file": "/home/hittero/ssd-secundario/ComputacaoGrafica/mundoVirtual/Primitives.cpp"
+},
+{
+  "directory": "/home/hittero/ssd-secundario/ComputacaoGrafica/mundoVirtual/build",
+  "command": "/usr/bin/c++   -g -o CMakeFiles/mundoVirtual.dir/Pyramid.cpp.o -c /home/hittero/ssd-secundario/ComputacaoGrafica/mundoVirtual/Pyramid.cpp",
+  "file": "/home/hittero/ssd-secundario/ComputacaoGrafica/mundoVirtual/Pyramid.cpp"
+},
+{
+  "directory": "/home/hittero/ssd-secundario/ComputacaoGrafica/mundoVirtual/build",
+  "command": "/usr/bin/c++   -g -o CMakeFiles/mundoVirtual.dir/Terrain.cpp.o -c /home/hittero/ssd-secundario/ComputacaoGrafica/mundoVirtual/Terrain.cpp",
+  "file": "/home/hittero/ssd-secundario/ComputacaoGrafica/mundoVirtual/Terrain.cpp"
+},
+{
+  "directory": "/home/hittero/ssd-secundario/ComputacaoGrafica/mundoVirtual/build",
+  "command": "/usr/bin/c++   -g -o CMakeFiles/mundoVirtual.dir/Rectangle.cpp.o -c /home/hittero/ssd-secundario/ComputacaoGrafica/mundoVirtual/Rectangle.cpp",
+  "file": "/home/hittero/ssd-secundario/ComputacaoGrafica/mundoVirtual/Rectangle.cpp"
+},
+{
+  "directory": "/home/hittero/ssd-secundario/ComputacaoGrafica/mundoVirtual/build",
+  "command": "/usr/bin/c++   -g -o CMakeFiles/mundoVirtual.dir/Diamond.cpp.o -c /home/hittero/ssd-secundario/ComputacaoGrafica/mundoVirtual/Diamond.cpp",
+  "file": "/home/hittero/ssd-secundario/ComputacaoGrafica/mundoVirtual/Diamond.cpp"
+},
+{
+  "directory": "/home/hittero/ssd-secundario/ComputacaoGrafica/mundoVirtual/build",
+  "command": "/usr/bin/cc   -g -o CMakeFiles/mundoVirtual.dir/glad.c.o -c /home/hittero/ssd-secundario/ComputacaoGrafica/mundoVirtual/glad.c",
+  "file": "/home/hittero/ssd-secundario/ComputacaoGrafica/mundoVirtual/glad.c"
+}
+]

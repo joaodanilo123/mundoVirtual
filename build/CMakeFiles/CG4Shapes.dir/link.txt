@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/CG4Shapes.dir/main.cpp.o CMakeFiles/CG4Shapes.dir/Error.cpp.o CMakeFiles/CG4Shapes.dir/Camera.cpp.o CMakeFiles/CG4Shapes.dir/Cube.cpp.o CMakeFiles/CG4Shapes.dir/Shader.cpp.o CMakeFiles/CG4Shapes.dir/Primitives.cpp.o CMakeFiles/CG4Shapes.dir/Pyramid.cpp.o CMakeFiles/CG4Shapes.dir/Terrain.cpp.o -o CG4Shapes 

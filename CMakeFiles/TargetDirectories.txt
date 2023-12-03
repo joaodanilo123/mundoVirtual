@@ -1,0 +1,3 @@
+/home/hittero/ssd-secundario/ComputacaoGrafica/mundoVirtual/CMakeFiles/mundoVirtual.dir
+/home/hittero/ssd-secundario/ComputacaoGrafica/mundoVirtual/CMakeFiles/edit_cache.dir
+/home/hittero/ssd-secundario/ComputacaoGrafica/mundoVirtual/CMakeFiles/rebuild_cache.dir
